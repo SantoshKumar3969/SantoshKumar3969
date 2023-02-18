@@ -1,1 +1,3 @@
-# Project Title:- Music Store Database Analysis using SQL
+# Hi I am Santosh Kumar from India
+
+## Aspiring Data Analyst
